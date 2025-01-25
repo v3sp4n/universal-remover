@@ -1,5 +1,5 @@
 # universal-remover
-script compiler with LuBu(vespan edition(chapo_govno_zuj))
+script compiler with LuBu(vespan edition(chapo_govno_zuj)) https://www.blast.hk/threads/226911/post-1580092
 
 visual remove players/vehicles for fps up
 
