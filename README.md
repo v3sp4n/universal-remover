@@ -1,14 +1,13 @@
 # universal-remover
-
+script compiler with LuBu(vespan edition(chapo_govno_zuj))
 visual remove players/vehicles for fps up
 
 ACTIVATION - /ur;
 Зависимости - актуальный SAMP.lua;
 
 # >_<
-releases - https://github.com/v3sp4n/universal-remover/releases
-
 https://www.blast.hk/threads/173175/
+releases - https://github.com/v3sp4n/universal-remover/releases
 
 😋😋😋
 
