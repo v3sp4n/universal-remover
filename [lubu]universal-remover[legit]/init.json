@@ -1,0 +1,16 @@
+{
+    "modules": {
+        "luacfg": "lib/luacfg.lua",
+        "players": "players.lua",
+        "vehicles": "vehicles.lua",
+        "objects": "objects.lua",
+        "utils": "utils.lua",
+        "ui": "ui.lua",
+        "config": "config.lua"
+    },
+    "const": {
+        "VERSION": "3.0"
+    },
+    "main": "init.lua",
+    "output": "./universal-remover[legit].lua"
+}
