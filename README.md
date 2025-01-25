@@ -1,5 +1,6 @@
 # universal-remover
 script compiler with LuBu(vespan edition(chapo_govno_zuj))
+
 visual remove players/vehicles for fps up
 
 ACTIVATION - /ur;
